@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "862870532341",
+    "firebase_url": "https://planszowki-b276c.firebaseio.com",
+    "project_id": "planszowki-b276c",
+    "storage_bucket": "planszowki-b276c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:862870532341:android:33c699975227c897",
+        "android_client_info": {
+          "package_name": "com.example.mateusz.planszowki"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "862870532341-l9evje282a5f26hva8p09fvuhiun96c0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwZ40jaTKZBSNfBAiKRkBDs_NvHDbhFEk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
